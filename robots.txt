@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iziciuqu.github.io/FId/sitemap_index.txt
+Sitemap: https://iziciuqu.github.io/PlE/sitemap_index.txt
+Sitemap: https://iziciuqu.github.io/byV/sitemap_index.txt
+Sitemap: https://iziciuqu.github.io/skj/sitemap_index.txt
